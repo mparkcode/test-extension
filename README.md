@@ -14,7 +14,7 @@
     </ul>
   </li>
   <li>Design Choices 🎨
-  <ul>
+    <ul>
       <li>Fonts</li>
       <li>Icon</li>
       <li>Colours</li>
@@ -24,7 +24,13 @@
     </ul>
   </li>
   <li>Planning ✏️</li>
-  <li>Wireframes 🔧</li>
+  <li>Wireframes 🔧
+    <ul>
+      <li>Website Layout</li>
+      <li>Account Creation Flowchart</li>
+      <li>Database Design</li>
+    </ul>
+  </li>
   <li>Features 🎡</li>
   <li>Technologies Used 👨‍💻</li>
   <li>Planning + Testing ✏️ 🔌</li>
