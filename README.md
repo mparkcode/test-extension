@@ -60,3 +60,11 @@
 <li>To be able to record my intial thoughts, feelings, opinion on each title.</li>
 <li>To be able to rate each title.</li>
 </ul>
+
+<h3>Site Owner Goals:<h3>
+<ul>
+<li>Generate further interest in films, tv series, etc.</li>
+<li>Encourage curiosity about the viewing habits and perspectives of others.</li>
+<li>Encourage critical thinking about the films and series that we watch, and prvoke deeper exoloration of their themes, ideas, etc.</li>
+<li>Collect user information for the purposes of site analytics and gaining insights into how the general public receives certain movies.</li>
+</ul>
