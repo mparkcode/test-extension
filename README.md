@@ -31,7 +31,12 @@
       <li>Database Design</li>
     </ul>
   </li>
-  <li>Features 🎡</li>
+  <li>Features 🎡
+    <ul>
+      <li>Features that have been developed</li>
+      <li>Features that will be implemented in the future</li>
+    </ul>
+  </li>
   <li>Technologies Used 👨‍💻</li>
   <li>Planning + Testing ✏️ 🔌</li>
   <li>Bugs 🐞</li>
