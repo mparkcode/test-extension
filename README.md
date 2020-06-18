@@ -40,7 +40,12 @@
   <li>Technologies Used 👨‍💻</li>
   <li>Planning + Testing ✏️ 🔌</li>
   <li>Bugs 🐞</li>
-  <li>Deployment 🚀</li>
+  <li>Deployment 🚀
+    <ul>
+      <li>Deploying to Heroku</li>
+      <li>Locally run this project</li>
+    </ul>
+  </li>
   <li>Credits 💳</li>
   <li>Disclaimer 📝</li>
 </ul>
