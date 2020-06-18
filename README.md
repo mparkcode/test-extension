@@ -78,3 +78,10 @@
 </ul>
 
 <h3>User Requirements and Expectations:</h3>
+<h6>Requirements:</h6>
+<ul>
+<li>Interact with a visually appealing website.</li>
+<li>Navigate the website with ease & with fast load times.</li>
+<li>Make entries in an quick and uncomplicated way.</li>
+<li>Find previous entries easily and see them clearly displayed.</li>
+</ul>
