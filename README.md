@@ -61,7 +61,7 @@
 <li>To be able to rate each title.</li>
 </ul>
 
-<h3>Site Owner Goals:<h3>
+<h3>Site Owner Goals:</h3>
 <ul>
 <li>Generate further interest in films, tv series, etc.</li>
 <li>Encourage curiosity about the viewing habits and perspectives of others.</li>
