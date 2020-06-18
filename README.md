@@ -70,3 +70,9 @@
 </ul>
 
 <h3>User Stories:</h3>
+<ul>
+<li>As a user, I expect log in to be quick and easy.</li>
+<li>As a user, I expect to navigation of the site to be intuitive and require as few clicks as possible.</li>
+<li>As a user, I expect to maaking an entry to be quick and simple.</li>
+<li>As a user, I expect my entries to be stored in such a way that makes them easy to view and access.</li>
+</ul>
