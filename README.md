@@ -53,3 +53,10 @@
 <h2>User Experience 👍</h2>
 <h3>Project Goals:</h3>
 <p>This goal of this project is to provide users with an online repository in which they can record their opinions of the titles they've seen, rating them and providing their intial thoughts. This project will serve as a film critiquing service for personal use.</p>
+
+<h3>Target Audience Goals:</h3>
+<ul>
+<li>To be able to record titles in one place.</li>
+<li>To be able to record my intial thoughts, feelings, opinion on each title.</li>
+<li>To be able to rate each title.</li>
+</ul>
