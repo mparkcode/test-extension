@@ -1,1 +1,1 @@
-<title>My Anime Vault</title>
+<h1>My Anime Vault</h1>
