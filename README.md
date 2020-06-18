@@ -78,7 +78,7 @@
 </ul>
 
 <h3>User Requirements and Expectations:</h3>
-<h6>Requirements:</h6>
+<h4>Requirements:</h4>
 <ul>
 <li>Interact with a visually appealing website.</li>
 <li>Navigate the website with ease & with fast load times.</li>
