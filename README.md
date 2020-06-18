@@ -4,15 +4,15 @@
 
 <h2>Contents:</h2>
 <ul>
-  <li>UX</li>
-  <li>Design Choices</li>
-  <li>Planning</li>
-  <li>Wireframes</li>
-  <li>Features</li>
-  <li>Technologies Used</li>
-  <li>Planning + Testing</li>
-  <li>Bugs</li>
-  <li>Deployment</li>
-  <li>Credits</li>
-  <li>Disclaimer</li>
+  <li>UX 👍</li>
+  <li>Design Choices 🎨</li>
+  <li>Planning ✏️</li>
+  <li>Wireframes 🔧</li>
+  <li>Features 🎡</li>
+  <li>Technologies Used 👨‍💻</li>
+  <li>Planning + Testing ✏️ 🔌</li>
+  <li>Bugs 🐞</li>
+  <li>Deployment 🚀</li>
+  <li>Credits 💳</li>
+  <li>Disclaimer 📝</li>
 </ul>
