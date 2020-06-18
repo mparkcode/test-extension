@@ -76,3 +76,5 @@
 <li>As a user, I expect to maaking an entry to be quick and simple.</li>
 <li>As a user, I expect my entries to be stored in such a way that makes them easy to view and access.</li>
 </ul>
+
+<h3>User Requirements and Expectations:</h3>
