@@ -4,7 +4,15 @@
 
 <h2>Contents:</h2>
 <ul>
-  <li>UX 👍</li>
+  <li>UX 👍
+    <ul>
+      <li>Project Goals</li>
+      <li>Target Audeience Goals</li>
+      <li>Site Owner Goals</li>
+      <li>User Stories</li>
+      <li>User Requirements and Expectations</li>
+    </ul>
+  </li>
   <li>Design Choices 🎨</li>
   <li>Planning ✏️</li>
   <li>Wireframes 🔧</li>
