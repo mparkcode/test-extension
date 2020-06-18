@@ -13,7 +13,16 @@
       <li>User Requirements and Expectations</li>
     </ul>
   </li>
-  <li>Design Choices 🎨</li>
+  <li>Design Choices 🎨
+  <ul>
+      <li>Fonts</li>
+      <li>Icon</li>
+      <li>Colours</li>
+      <li>Styling</li>
+      <li>Images</li>
+      <li>Backgrounds</li>
+    </ul>
+  </li>
   <li>Planning ✏️</li>
   <li>Wireframes 🔧</li>
   <li>Features 🎡</li>
