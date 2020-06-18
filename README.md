@@ -1,1 +1,2 @@
 <h1>My Anime Vault</h1>
+<p>Have you ever tried to remember the name of that really good anime you watched some time ago? Have you ever tried to remember what your intial thoughts on it were or why exactly you liked (or disliked) it? If you're anything like me, then the answer to both of these questions is yes. That's where My Anime Vault comes in.</p>
