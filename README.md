@@ -66,5 +66,7 @@
 <li>Generate further interest in films, tv series, etc.</li>
 <li>Encourage curiosity about the viewing habits and perspectives of others.</li>
 <li>Encourage critical thinking about the films and series that we watch, and prvoke deeper exoloration of their themes, ideas, etc.</li>
-<li>Collect user information for the purposes of site analytics and gaining insights into how the general public receives certain movies.</li>
+<li>Collect user information for the purposes of site analytics and gaining insights into how the general public receives certain titles.</li>
 </ul>
+
+<h3>User Stories:</h3>
