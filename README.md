@@ -85,3 +85,11 @@
 <li>Make entries in an quick and uncomplicated way.</li>
 <li>Find previous entries easily and see them clearly displayed.</li>
 </ul>
+
+<h4>Expectations:</h4>
+<ul>
+<li>The users can interact with the elements visible on the page.</li>
+<li>The website loads with sufficient speed.</li>
+<li>The content on the website renders correctly on desktop, mobile and tablet.</li>
+<li>The user feels satisfied with the experience.</li>
+</ul>
