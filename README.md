@@ -1,8 +1,8 @@
 <h1>Flixlog 🎥📖</h1>
-<p>Have you ever tried to remember the name of that really good movie or series you watched ages ago? Have you ever tried to remember what your intial thoughts on it were or why exactly you liked (or disliked) it? If you're anything like me, then the answer to both of these questions is yes. That's where Flixlog comes in.</p>
+<p>Have you ever tried to remember the name of that really good movie or series you watched ages ago? Have you ever tried to remember what your intial thoughts on it were or all of the reasons why you liked (or disliked) it? If you're anything like me, then the answer to both of these questions is yes. That's where Flixlog comes in.</p>
 <p>Think of it as a film critiquing app for personal use. You watch something that you like or dislike that you might want to remember for the purposes of recommending it or rewatching it later, simply log in, make an entry, and there you go. Your intial thoughts and feelings are recorded for reference later.<p>
 
-<h2>Contents:</h2>
+<h2>Content:</h2>
 <ul>
   <li>UX 👍
     <ul>
