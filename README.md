@@ -93,3 +93,5 @@
 <li>The content on the website renders correctly on desktop, mobile and tablet.</li>
 <li>The user feels satisfied with the experience.</li>
 </ul>
+
+<h2>Design Choices</h2>
