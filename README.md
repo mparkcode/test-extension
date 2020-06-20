@@ -104,5 +104,5 @@
 <h2>Wireframes/Flowcharts</h2>
 <p>I used <a href="https://balsamiq.com/">balsamiq</a> to develop the wireframes for this project. I chose balsamiq because their process for creating wireframes is quick, simple, and intuitive. Having the wireframes developed before commencing the project made development much easier and more straightforward. It provided a basic blueprint that I could follow which made the endeavor faster and more manageable.
 
-The wireframes can be found <a href="../fl wireframes.html">here</a>.</p>
+The wireframes can be found <a href="fl-wireframes.html">here</a>.</p>
 <h3>Account Creation Flowchart:</h3>
