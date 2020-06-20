@@ -104,5 +104,7 @@
 <h2>Wireframes/Flowcharts</h2>
 <p>I used <a href="https://balsamiq.com/">balsamiq</a> to develop the wireframes for this project. I chose balsamiq because their process for creating wireframes is quick, simple, and intuitive. Having the wireframes developed before commencing the project made development much easier and more straightforward. It provided a basic blueprint that I could follow which made the endeavor faster and more manageable.
 
-The wireframes can be found <a href="../fl wireframes.html">here</a>.</p>
+The wireframes can be found <a href="https://github.com/kel151/Flixlog/tree/master/fl%20wireframes">here</a>.</p>
+
 <h3>Account Creation Flowchart:</h3>
+<p>Despite the account creation and log in process seeming rather simple, I still opted to create a very basic flowchart for it for the purposes of visualizing the user's journey. It can be found <a href="https://github.com/kel151/Flixlog/tree/master/fl%20wireframes/flowcharts">here</a></p>
