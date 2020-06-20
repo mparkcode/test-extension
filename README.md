@@ -95,3 +95,8 @@
 </ul>
 
 <h2>Design Choices</h2>
+<h3>Fonts:</h3>
+<h3>Icons:</h3>
+<h3>Colours:</h3>
+<h3>Images:</h3>
+<h3>Background Images:</h3>
