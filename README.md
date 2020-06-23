@@ -123,6 +123,7 @@ The wireframes can be found <a href="https://github.com/kel151/Flixlog/tree/mast
 <p>Despite the account creation and log in process seeming rather simple, I still opted to create a very basic flowchart for it for the purposes of visualizing the user's journey. It can be found <a href="https://github.com/kel151/Flixlog/tree/master/fl%20wireframes/flowcharts">here.</a></p>
 
 <h3>Database Design:</h3>
+<p>I used NoSQL features from MongoDB in order to be able to map out the collection below.</p>
 
 <h3>Data Storage Types:</h3>
 
