@@ -131,3 +131,25 @@ The wireframes can be found <a href="https://github.com/kel151/Flixlog/tree/mast
 <h3>Features that have been developed:</h3>
 
 <h3>Features that will be developed in the future:</h3>
+
+<h2>Technologies Used 👨‍💻</h2>
+
+<h6>Languages:</h6>
+
+<h6>Tools & Libraries:</h6>
+
+<h2>Planning + Testing</h2>
+
+<h6>Planning:</h6>
+
+<h6>Testing:</h6>
+
+<h2>Bugs</h2>
+
+<h6>Bugs During Development</h6>
+
+<h2>Deployment</h2>
+
+<h2>Credits</h2>
+
+<h2>Disclaimer</h2>
