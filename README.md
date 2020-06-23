@@ -1,6 +1,6 @@
 <h1>Flixlog 🎥📖</h1>
-<p>Have you ever tried to remember the name of that really good movie or series you watched ages ago? Have you ever tried to remember what your intial thoughts on it were or all of the reasons why you liked (or disliked) it? If you're anything like me, then the answer to both of these questions is yes. That's where Flixlog comes in.</p>
-<p>Think of it as a film critiquing app for personal use. You watch something that you like or dislike that you might want to remember for the purposes of recommending it or rewatching it later, simply log in, make an entry, and there you go. Your intial thoughts and feelings are recorded for reference later.<p>
+<p>Have you ever tried to remember the name of that really good anime you watched ages ago? Have you ever tried to remember what your intial thoughts on it were or all of the reasons why you liked (or disliked) it? If you're anything like me, then the answer to both of these questions is yes. That's where MyAnimeVault comes in.</p>
+<p>Think of it as a very niche film critiquing app for personal use. You watch anime that you like or dislike that you might want to remember for the purposes of recommending it or rewatching it later, simply log in, make an entry, and there you go. Your intial thoughts and feelings are recorded for reference later.<p>
 
 <h2>Content:</h2>
 <ul>
@@ -16,7 +16,6 @@
   <li>Design Choices 🎨
     <ul>
       <li>Fonts</li>
-      <li>Icon</li>
       <li>Colours</li>
       <li>Styling</li>
       <li>Images</li>
@@ -52,20 +51,20 @@
 
 <h2>User Experience 👍</h2>
 <h3>Project Goals:</h3>
-<p>This goal of this project is to provide users with an online repository in which they can record their opinions of the titles they've seen, rating them and providing their intial thoughts. This project will serve as a film critiquing service for personal use.</p>
+<p>The goal of this project is to provide users with an online repository in which they can record their opinions of the anime titles they've seen, rating them and providing their intial thoughts. This project will serve as a film critiquing service for personal use that caters to a very specific genre and demographic.</p>
 
 <h3>Target Audience Goals:</h3>
 <ul>
-<li>To be able to record titles in one place.</li>
+<li>To be able to record anime titles in one place.</li>
 <li>To be able to record my intial thoughts, feelings, opinion on each title.</li>
 <li>To be able to rate each title.</li>
 </ul>
 
 <h3>Site Owner Goals:</h3>
 <ul>
-<li>Generate further interest in films, tv series, etc.</li>
+<li>Generate further interest in anime/Japanese animation</li>
 <li>Encourage curiosity about the viewing habits and perspectives of others.</li>
-<li>Encourage critical thinking about the films and series that we watch, and prvoke deeper exoloration of their themes, ideas, etc.</li>
+<li>Encourage critical thinking about the anime titles that we watch, and provoke deeper exoloration of their themes, ideas, etc.</li>
 <li>Collect user information for the purposes of site analytics and gaining insights into how the general public receives certain titles.</li>
 </ul>
 
@@ -98,8 +97,6 @@
 
 <h3>Fonts:</h3>
 
-<h3>Icons:</h3>
-
 <h3>Colours:</h3>
 
 <h3>Images:</h3>
@@ -109,7 +106,7 @@
 <h2>Wireframes/Flowcharts</h2>
 <p>I used <a href="https://balsamiq.com/">balsamiq</a> to develop the wireframes for this project. I chose balsamiq because their process for creating wireframes is quick, simple, and intuitive. Having the wireframes developed before commencing the project made development much easier and more straightforward. It provided a basic blueprint that I could follow which made the endeavor faster and more manageable.
 
-The wireframes can be found <a href="https://github.com/kel151/Flixlog/tree/master/fl%20wireframes">here</a>.</p>
+The wireframes can be found <a href="https://github.com/kel151/Flixlog/tree/master/wireframes">here</a>.</p>
 
 <h3>Account Creation Flowchart:</h3>
 <p>Despite the account creation and log in process seeming rather simple, I still opted to create a very basic flowchart for it for the purposes of visualizing the user's journey. It can be found <a href="https://github.com/kel151/Flixlog/tree/master/fl%20wireframes/flowcharts">here.</a></p>
