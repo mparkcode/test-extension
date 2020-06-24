@@ -126,8 +126,8 @@ The wireframes can be found <a href="https://github.com/kel151/Flixlog/tree/mast
 <p>I used NoSQL features from MongoDB in order to be able to map out the collection below.</p>
 
 <h3>Data Storage Types:</h3>
-The types of data that are stored in the MongoDB database.
-- String
+<p>The types of data that are stored in the MongoDB database.</p><br>
+- String<br>
 - Numbers
 
 Entry Collection:
