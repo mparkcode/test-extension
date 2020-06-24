@@ -139,6 +139,8 @@ Title|title|String
 Category|category|String
 Rating|rating|Number
 
+View the schema templates for the database collections <a href="">here.</a>
+
 <h2>Features</h2>
 
 <h3>Features that have been developed:</h3>
