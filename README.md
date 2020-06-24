@@ -127,6 +127,7 @@ The wireframes can be found <a href="https://github.com/kel151/Flixlog/tree/mast
 
 <h3>Data Storage Types:</h3>
 
+
 <h2>Features</h2>
 
 <h3>Features that have been developed:</h3>
