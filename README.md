@@ -139,7 +139,7 @@ Title|title|String
 Category|category|String
 Rating|rating|Number
 
-View the schema templates for the database collections <a href="">here.</a>
+View the schema templates for the database collections <a href="https://github.com/kel151/MyAnimeVault/blob/master/data/schemas.json">here.</a>
 
 <h2>Features</h2>
 
