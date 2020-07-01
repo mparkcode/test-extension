@@ -1,0 +1,11 @@
+[{
+    "title": "Naruto",
+    "category": "Action",
+    "rating": "4"
+}]
+
+[{
+    "title": "<String>",
+    "category": "<String>",
+    "rating": "<Number>"
+}]
