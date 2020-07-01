@@ -1,6 +1,8 @@
 
 [{
+    "_id": "<ObjectId()>",
     "title": "<String>",
     "category": "<String>",
-    "rating": "<Number>"
+    "rating": "<Number>",
+    "comments": "<String>"
 }]

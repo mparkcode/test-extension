@@ -138,6 +138,7 @@ Entry Collection:
 Title|title|String
 Category|category|String
 Rating|rating|Number
+Comments|comments|String
 
 View the schema templates for the database collections <a href="https://github.com/kel151/MyAnimeVault/blob/master/data/schemas.json">here.</a>
 
